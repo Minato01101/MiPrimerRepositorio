@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\bin\Debug\HechoPorChatGPT.exe.config
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\bin\Debug\HechoPorChatGPT.exe
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\bin\Debug\HechoPorChatGPT.pdb
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\obj\Debug\HechoPorChatGPT.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\obj\Debug\HechoPorChatGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\obj\Debug\HechoPorChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\obj\Debug\HechoPorChatGPT.exe
+C:\Users\MINEDUCYT\source\repos\HechoPorChatGPT\obj\Debug\HechoPorChatGPT.pdb
